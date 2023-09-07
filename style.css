@@ -1,0 +1,22 @@
+
+body {
+    height: 100%;
+    margin: 0;
+    }
+
+.hero-image {
+    background-image: url(/www.sheritilton.com/images/heroimage.jpg);
+    background-size:cover;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+.hero-text {
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
