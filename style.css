@@ -18,7 +18,7 @@ a {
     text-decoration: none;
 }
 .hero-image {
-    background-image: url(/www.sheritilton.com/images/heroimage.jpg);
+    background-image: url(./www.sheritilton.com/images/heroimage.jpg);
     background-size:cover;
     height: 400px;
     background-position: center;
